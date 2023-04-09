@@ -59,10 +59,10 @@ These are the following correlations that are more likely to default.
 
 
 ## Technologies Used
-- numpy
-- pandas
-- matplotlib
-- seaborn
+- numpy: Version  1.21.5
+- pandas: Version 1.4.4
+- matplotlib: Version 3.5.2
+- seaborn: Version  0.11.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
